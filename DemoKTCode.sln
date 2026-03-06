@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoKTCode", "DemoKTCode\DemoKTCode.csproj", "{89E40AC7-CD86-4F04-A76F-8A191D178B6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoKTCodeTest", "DemoKTCodeTest\DemoKTCodeTest.csproj", "{11A97921-764C-43A5-89A9-85800A6E51B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E40AC7-CD86-4F04-A76F-8A191D178B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E40AC7-CD86-4F04-A76F-8A191D178B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E40AC7-CD86-4F04-A76F-8A191D178B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E40AC7-CD86-4F04-A76F-8A191D178B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A97921-764C-43A5-89A9-85800A6E51B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A97921-764C-43A5-89A9-85800A6E51B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A97921-764C-43A5-89A9-85800A6E51B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A97921-764C-43A5-89A9-85800A6E51B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
